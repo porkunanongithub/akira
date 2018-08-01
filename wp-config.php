@@ -29,7 +29,7 @@ define('DB_USER', 'sql12250053');
 define('DB_PASSWORD', 'FTYNM2Kzyp');
 
 /** MySQL hostname */
-define('DB_HOST', 'sql12.freemysqlhosting.net');
+define('DB_HOST', 'http://akirashop.herokuapp.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
